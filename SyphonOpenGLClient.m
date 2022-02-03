@@ -28,11 +28,11 @@
  */
 
 
-#import "SyphonOpenGLClient.h"
-#import "SyphonCGL.h"
-#import "SyphonIOSurfaceImageCore.h"
-#import "SyphonIOSurfaceImageLegacy.h"
-#import "SyphonSubclassing.h"
+#import <Syphon/SyphonOpenGLClient.h>
+#import <Syphon/SyphonCGL.h>
+#import <Syphon/SyphonIOSurfaceImageCore.h>
+#import <Syphon/SyphonIOSurfaceImageLegacy.h>
+#import <Syphon/SyphonSubclassing.h>
 
 #import <libkern/OSAtomic.h>
 
